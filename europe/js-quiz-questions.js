@@ -73,13 +73,13 @@ var questions = [
     a: 2,
   },
   {
-    q: "Mis keel kasutab Ungari?",
-    o: ["Ungari keelt", "Eesti keelt", "Prantsuse keelt", "Montenegro keelt"],
+    q: "Mis keelt kasutab Ungari?",
+    o: ["Ungari keelt", "Gruusia keelt", "Prantsuse keelt", "Montenegro keelt"],
     a: 0,
   },
   {
     q: "Leedu pealinnaks on?",
-    o: ["Rooma", "Oslo", "Riia", "Vilnius"],
+    o: ["Kaunas", "Klaipeda", "Palanga", "Vilnius"],
     a: 3,
   },
   {
@@ -99,7 +99,7 @@ var questions = [
   },
   {
     q: "Millise riigi pealinnaks on Kopenhaagen?",
-    o: ["Taani", "Eesti", "Rootsi", "Vatikan"],
+    o: ["Taani", "Holland", "Rootsi", "Vatikan"],
     a: 0,
   },
 ];

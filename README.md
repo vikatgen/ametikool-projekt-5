@@ -13,7 +13,7 @@
 
 #### Toggl PDF raport
 
-[ ] - Veel ei ole
+[Toggl time-management](/toggl-pdf/toggle-ametikool.pdf)
 
 #### Live production
 
@@ -21,13 +21,12 @@
 
 #### Arendajad ja nende ülesanded
 
-- Steven Stepanov - Lisandus teisel päeval.
-  - Ei saanud temaga ühendust millegipärast, lisasime ta Teamsi ja helistasime korduvalt.
 - Kalvi Trei - Lisandus teisel päeval - spectator rollis
 - Kevin Reinov - Figma disain, Frontend (landing page)
 - Daniel Nõukas - Javascript
 - Aive Pähn - Kadunud teisel päeval
 - Erkki Tambaum - Backend, Javascript
+- Steven Stepanov - Paarisprogrammeerimine Erkki Tambaumiga
 - Kaasik Kristo - Backend arendaja ja liidestaja
 - Jasper Tambur - Puudus esimesel päeval ja ka teisel päeval.
 - Gen Vikat - Tiimi liider
