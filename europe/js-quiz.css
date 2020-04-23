@@ -37,3 +37,10 @@
   margin-top: 10px;
   font-size: 20px;
 }
+
+body {
+  background-image: url("https://speakwellacademy.com/wp-content/uploads/2018/11/reading-public-speakers.jpg");
+  background-repeat: no-repeat;
+  background-size: cover;
+  font-family: Merriweather;
+}
