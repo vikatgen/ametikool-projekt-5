@@ -17,7 +17,7 @@
 
 #### Live production
 
-[ ] - Arendamisel
+[Live sait- powered by Netlify](https://localhost-5.netlify.app/)
 
 #### Arendajad ja nende ülesanded
 
