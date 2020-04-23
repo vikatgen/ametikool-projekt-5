@@ -2,9 +2,16 @@
 
 #### Projekti lähteülesanne
 
-[ ] - Veel ei tea.
+- Kasutaja saab valida erinevate õppeteemade vahel.
+- Õppeteemad koosnevad erinevatest mängulistest tarkuseteradest.
+- Kasutaja vastab, kas aja või punktide peale.
+- Kasutajad saavad ise lisada uusi õppeteemasid ning nende sisu.
 
 #### Figma prototüüp
+
+[Figma - erinevad prototüübid](https://www.figma.com/file/kjVPKyZiRG6HAi9k15IgPZ/Untitled?node-id=0%3A1)
+
+#### Toggl PDF raport
 
 [ ] - Veel ei ole
 
@@ -12,11 +19,15 @@
 
 [ ] - Arendamisel
 
-#### Arendajad
+#### Arendajad ja nende ülesanded
 
-- Kevin Reinov
-- Aive Pähn
-- Erkki Tambaum
-- Kaasik Kristo
-- Jasper Tambur
-- Gen Vikat
+- Steven Stepanov - Lisandus teisel päeval.
+  - Ei saanud temaga ühendust millegipärast, lisasime ta Teamsi ja helistasime korduvalt.
+- Kalvi Trei - Lisandus teisel päeval - spectator rollis
+- Kevin Reinov - Figma disain, Frontend (landing page)
+- Daniel Nõukas - Javascript
+- Aive Pähn - Kadunud teisel päeval
+- Erkki Tambaum - Backend, Javascript
+- Kaasik Kristo - Backend arendaja ja liidestaja
+- Jasper Tambur - Puudus esimesel päeval ja ka teisel päeval.
+- Gen Vikat - Tiimi liider
