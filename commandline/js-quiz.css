@@ -1,5 +1,6 @@
 /* The entire quiz form */
 #quiz-wrap {
+<<<<<<< HEAD
   display: flex;
   flex-direction: column;
   width: 100%;
@@ -56,3 +57,49 @@
   margin-top: 10px;
   font-size: 20px;
 }
+=======
+    font-family: arial, sans-serif;
+  }
+  
+  /* Wrapper of each question */
+  #quiz-wrap .question {
+    padding: 15px;
+    margin: 10px;
+    background: rgba(105, 186, 168, 0.85);
+    border: 3px solid #ccc;
+    border-radius: 10px;
+  }
+  
+  /* Question */
+  #quiz-wrap h1 {
+    font-size: 22px;
+    margin: 5px 0;
+  }
+  
+  /* Options */
+  #quiz-wrap label {
+    display: block;
+    width: 100%;
+    font-size: 20px;
+    margin-top: 10px;
+    color: #333;
+  }
+  
+  /* Submit Button */
+  #quiz-wrap input[type=submit] {
+    background: #FDA302;
+    box-shadow: 0px 4px 4px rgba(0, 0, 0, 0.25);
+    border-radius: 29.5px;
+    padding: 10px;
+    border: 0;
+    padding: 10px 20px;
+    margin-top: 10px;
+    font-size: 20px;
+  }
+  body{
+    background-image: url('https://speakwellacademy.com/wp-content/uploads/2018/11/reading-public-speakers.jpg');
+    background-repeat: no-repeat;
+    background-size: cover;
+    font-family: Merriweather;
+}
+>>>>>>> 611a2373fb2b6af0b8b319b99606f3c1fd9f36fd
